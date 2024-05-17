@@ -1,4 +1,5 @@
-### Zomato-Case-Study
+**Zomato Restaurant Data Analysis Project**
+
 **Project Overview**
 This project involves an exploratory data analysis (EDA) of the Zomato restaurant dataset from various cities in India. The main objective is to understand customer preferences, dining trends, and the competitive landscape to design an effective marketing campaign for a restaurant chain.
 
